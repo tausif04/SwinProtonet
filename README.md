@@ -215,27 +215,6 @@ git clone <YOUR_REPOSITORY_URL>
 cd SwinProtoNet-GI-Endoscopy
 pip install -r requirements.txt
 ```
-
----
-
-# Reproducibility
-
-For a reproducible research run, record:
-
-```text
-Source script
-Configuration
-Random seed(s)
-Dataset split
-Checkpoint
-N-way / K-shot
-Number of episodes
-Execution timestamp / run ID
-```
-
-Experimental results should always be generated directly by the corresponding code rather
-than manually estimated or reconstructed.
-
 ---
 
 # Research Scope
